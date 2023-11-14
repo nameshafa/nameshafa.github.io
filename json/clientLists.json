@@ -1,0 +1,160 @@
+{
+  "lists": [
+    {
+      "image": "../images/client/img-client-2.png",
+      "name": "GRAHA HOSPITAL GROUP"
+    },
+    {
+      "image": "../images/client/img-client-14.png",
+      "name": "RSUD CILEGON"
+    },
+    {
+      "image": "../images/client/img-client-4.png",
+      "name": "BRAWIJAYA GROUPS"
+    },
+    {
+      "image": "../images/client/img-client-8.png",
+      "name": "OMNI HOSPITALS GROUPS"
+    },
+    {
+      "image": "../images/client/img-client-3.png",
+      "name": "CIPUTRA HOSPITAL GROUPS"
+    },
+    {
+      "image": "../images/client/img-client-6.png",
+      "name": "RS PERMATA CIBUBUR"
+    },
+    {
+      "image": "../images/client/img-client-5.png",
+      "name": "BUNDA GROUPS"
+    },
+    {
+      "image": "../images/client/img-client-16.png",
+      "name": "RS ROEMANI MUHAMMADIYAH SEMARANG"
+    },
+    {
+      "image": "../images/client/img-client-13.png",
+      "name": "RS BELLA KOTA BEKASI"
+    },
+    {
+      "image": "../images/client/img-client-11.png",
+      "name": "FAMILY GROUPS"
+    },
+    {
+      "image": "../images/client/img-client-12.png",
+      "name": "RS SUMBER WARAS JAKARTA"
+    },
+    {
+      "image": "../images/client/img-client-15.png",
+      "name": "RS AL-ISLAM BANDUNG"
+    },
+    {
+      "image": "../images/client/img-client-9.png",
+      "name": "RS KASIH BUNDA C"
+    },
+    {
+      "image": "../images/client/img-client-17.png",
+      "name": "RS MELINDA BANDUNG"
+    },
+    {
+      "image": "../images/client/img-client-18.png",
+      "name": "RS MARTHA FRISKA MEDAN"
+    },
+    {
+      "image": "../images/client/img-client-10.png",
+      "name": "RS PERTUKANGAN"
+    },
+    {
+      "image": "../images/client/img-client-19.png",
+      "name": "RS UMMI BOGOR"
+    },
+    {
+      "image": "../images/client/img-client-7.png",
+      "name": "RS MATA Dr.YAP"
+    },
+    {
+      "image": "../images/client/img-client-20.png",
+      "name": "AdMedika"
+    },
+    {
+      "image": "../images/client/img-client-21.png",
+      "name": "Rumah Sakit Edelweiss"
+    },
+    {
+      "image": "../images/client/img-client-22.png",
+      "name": "RS Mitra Kasih"
+    },
+    {
+      "image": "../images/client/img-client-23.png",
+      "name": "Ciputra SMG Eye Center"
+    },
+    {
+      "image": "../images/client/img-client-24.png",
+      "name": "Pusrehab Kemhan"
+    },
+    {
+      "image": "../images/client/img-client-25.png",
+      "name": "RS Kharitas Bakti"
+    },
+    {
+      "image": "../images/client/img-client-26.png",
+      "name": "Bio Fit Healthcare"
+    },
+    {
+      "image": "../images/client/img-client-27.png",
+      "name": "Grand Family"
+    },
+    {
+      "image": "../images/client/img-client-28.png",
+      "name": "RS Mulia Insani"
+    },
+    {
+      "image": "../images/client/img-client-29.png",
+      "name": "RS Netra"
+    },
+    {
+      "image": "../images/client/img-client-30.png",
+      "name": "GRHA Bunda"
+    },
+    {
+      "image": "../images/client/img-client-31.png",
+      "name": "RS Budiasih"
+    },
+    {
+      "image": "../images/client/img-client-32.png",
+      "name": "RS Humana Prima"
+    },
+    {
+      "image": "../images/client/img-client-33.png",
+      "name": "RS Bunda Suryatni"
+    },
+    {
+      "image": "../images/client/img-client-34.png",
+      "name": "RS Aini"
+    },
+    {
+      "image": "../images/client/img-client-35.png",
+      "name": "RS Permata Ibu"
+    },
+    {
+      "image": "../images/client/img-client-36.png",
+      "name": "RS Masmitra"
+    },
+    {
+      "image": "../images/client/img-client-37.png",
+      "name": "Daya Medika"
+    },
+    {
+      "image": "../images/client/img-client-38.png",
+      "name": "RSIA Asih"
+    },
+    {
+      "image": "../images/client/img-client-39.png",
+      "name": "Metro Hospital"
+    },
+    {
+      "image": "../images/client/img-client-40.png",
+      "name": "RS Belleza Kedaton"
+    }
+  ]
+}
