@@ -1,5 +1,6 @@
-# STATIC
+**This repository is for Teramedik Wesbite 2023 development purposes**
 
+# STATIC
 **This directory is not required, you can delete it if you don't want to use it.**
 
 This directory contains your static files.
